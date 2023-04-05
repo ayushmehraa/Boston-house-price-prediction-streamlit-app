@@ -2,6 +2,8 @@
 
 The Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
 
+Data source - https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data?rvi=1
+
 ### Attribute Information
 
 Input features in order:
